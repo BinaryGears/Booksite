@@ -1,0 +1,12 @@
+.button-submit-container {
+    margin-left: 7vh;
+    margin-right: auto;
+    width: fit-content;
+    margin-top: -30px;
+    text-align: center;
+}
+
+.button-submit-text {
+    color: #F9F6EE;
+    font-size: 70px;
+}

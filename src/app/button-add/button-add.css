@@ -1,0 +1,12 @@
+.button-add-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    margin-top: -30px;
+    text-align: center;
+}
+
+.button-add-text {
+    color: #F9F6EE;
+    font-size: 70px;
+}

@@ -1,0 +1,12 @@
+.button-filter-container {
+    margin-left: 3vh;
+    margin-right: auto;
+    width: fit-content;
+    margin-top: -30px;
+    text-align: center;
+}
+
+.button-filter-text {
+    color: #F9F6EE;
+    font-size: 70px;
+}
